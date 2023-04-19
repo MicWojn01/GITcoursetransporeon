@@ -1,1 +1,4 @@
 Functionality B introduced.
+
+New option - funcionality B changed!
+
